@@ -1,4 +1,4 @@
-from utils.hide_account import hide_number, hide_card, check_card_number
+from func.hide_account import hide_number, hide_card, check_card_number
 
 
 def test_hide_number():

@@ -1,6 +1,6 @@
 import pytest
 
-from utils.output_result import print_result
+from func.output_result import print_result
 
 
 file = [

@@ -1,6 +1,6 @@
 import pytest
-from utils.utils import load_operation_json, sort_date
-from utils.utils import get_5_executed_operations
+from func.utils import load_operation_json, sort_date
+from func.utils import get_5_executed_operations
 
 test_json = r'tests\test_json.json'
 date = ["2019-08-26T10:50:58.294041", "2019-07-03T18:35:29.512364"]

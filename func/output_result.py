@@ -1,5 +1,5 @@
 from datetime import datetime
-from utils.hide_account import check_card_number
+from func.hide_account import check_card_number
 
 
 def print_result(last_operation):
