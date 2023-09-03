@@ -1,5 +1,5 @@
-from utils.utils import load_operation_json, get_5_executed_operations, sort_date
-from utils.output_result import print_result
+from func.utils import load_operation_json, get_5_executed_operations, sort_date
+from func.output_result import print_result
 
 operations = 'operations.json'
 
