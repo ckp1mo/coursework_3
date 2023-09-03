@@ -1,0 +1,5 @@
+venv
+venv/
+.idea/
+tests/
+poetry.lock
