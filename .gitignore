@@ -2,3 +2,5 @@ venv
 venv/
 .idea/
 poetry.lock
+.pytest_cache
+.coverage
