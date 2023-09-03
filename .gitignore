@@ -3,3 +3,5 @@ venv/
 .idea/
 tests/
 poetry.lock
+.pytest_cache
+.coverage
